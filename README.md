@@ -34,7 +34,7 @@
 **Steps to be followed:**
 1) Download the project or clone it
 2) Install the libaries mentioned in package.json file of root folder
-3) Let me know if u need firebase credentials
+3) Let me know if u need mongodb credentials
 4) Run with command nodemon app.js
 
 Thats it, Have a good day :)
