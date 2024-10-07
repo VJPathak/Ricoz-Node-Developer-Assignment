@@ -18,8 +18,7 @@
 
 **This project is already hosted on render:**
 
-    Our main page: https://kodekamp.onrender.com/formpage
-    To view firestore realtime data: https://kodekamp.onrender.com/viewdata
+    Our main page: https://ricoz-node-developer-assignment.onrender.com/homepage
     
 **How to run the file locally?**
 
