@@ -27,9 +27,9 @@
 **app.js is root file of our project, run it to execute my project**
 
 **Our main endpoints are:**
-    1) /getdata ((http://localhost:3000/getdata)
-    2) /postdata (http://localhost:3000/postdata?fname=Vashishth&lname=Pathak&email=pathakvashishth06%40gmail.comm&comment=-)
-    3) /updatedata (http://localhost:3000/updatedata?id=6703e1afc09ebcf4eacdd0bb&fname=Vashishth&lname=Pathak&email=pathakvashishth06%40gmail.comm&comment=-)
+    1) /getdata ((http://localhost:3000/getdata)<br>
+    2) /postdata (http://localhost:3000/postdata?fname=Vashishth&lname=Pathak&email=pathakvashishth06%40gmail.comm&comment=-)<br>
+    3) /updatedata (http://localhost:3000/updatedata?id=6703e1afc09ebcf4eacdd0bb&fname=Vashishth&lname=Pathak&email=pathakvashishth06%40gmail.comm&comment=-)<br>
 
 **Steps to be followed:**
 1) Download the project or clone it
